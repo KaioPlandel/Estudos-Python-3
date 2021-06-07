@@ -1,3 +1,4 @@
+nome = str(input('Digite no nome Completo: '))
 print(nome.upper())
 print(nome.lower())
 print(len(nome.strip()) - nome.count(" "))
