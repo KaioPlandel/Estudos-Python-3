@@ -1,3 +1,4 @@
+#classificação do atleta de acordo com a idade
 from datetime import date
 nascimento = int(input('Digite o Ano de Nascimento: '))
 idade = date.today().year - nascimento

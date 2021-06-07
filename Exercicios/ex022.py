@@ -1,3 +1,4 @@
+#pergunte o nome. mostre o nome com as letras M e m, quantas letras tem tirando os espaços e quantas letras tem o primeiro nome.
 nome = str(input('Digite no nome Completo: '))
 print(nome.upper())
 print(nome.lower())

@@ -1,3 +1,4 @@
+#radar de transito
 radar = int(input('Velocidade Atual: '))
 if radar > 80:
     print(f'Você está a {radar}Km/hr Foi MULTADO')

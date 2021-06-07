@@ -1,3 +1,4 @@
+#maior e menor numero
 n1 = int(input('Digite um Numero: '))
 n2 = int(input('Digite Outro: '))
 n3 = int(input('Digite o Último: '))

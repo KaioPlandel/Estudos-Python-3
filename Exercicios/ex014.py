@@ -1,3 +1,4 @@
+#crie um sistema de caixa eletronico e mostre quantas notas a pessoa vai sacar considerando notas de 100, 50, 10, 5 e 1
 from time import sleep
 s = 1
 while s == 1:

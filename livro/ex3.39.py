@@ -1,3 +1,4 @@
+#crie uma função que mostre o sobreNome da pessea "," a primeira letra do Nome dela ex Kaio Plandel = mostre Plandel, K
 def inverterNome(st):
     nome = st.capitalize()
     sobre = nome.split()

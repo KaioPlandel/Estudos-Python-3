@@ -1,8 +1,5 @@
-#A soma dos sete primeiros inteiros positivos
+#Crie uma lista que gere 7 numeros e mostre a lista e a soma de todos os numeros
 import random
-listaNumeros = [1,2,3,4,5,6,7]
-
-print(sum(listaNumeros))
 
 lista = []
 while len(lista) < 7:

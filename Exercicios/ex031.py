@@ -1,3 +1,4 @@
+#calcula o valor da passagem da viagem considerando o Km
 distancia = int(input('Qual a Distancia da Viagem em KM: '))
 if distancia <= 200:
     valor = distancia * 0.50

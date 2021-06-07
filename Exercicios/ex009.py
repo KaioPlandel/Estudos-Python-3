@@ -1,3 +1,4 @@
+#faça uma função que pegue um numero positivo e trasforma em negativo
 def make_negative(number):
     if number > 0:
         return number * -1
@@ -7,4 +8,4 @@ def make_negative(number):
         return number
 
 
-print(make_negative(0))
+print(make_negative(1))

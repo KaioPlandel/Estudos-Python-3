@@ -1,3 +1,4 @@
+#jogo de descobrir o numero
 from random import  randint
 print('-'*50)
 print('TENTE ADIVINHAR O NUMERO QUE VOU PENSAR DE 0 A 5')

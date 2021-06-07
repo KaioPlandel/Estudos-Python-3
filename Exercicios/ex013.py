@@ -1,3 +1,4 @@
+#mostre o salario do funcionario com o aumento de 15%
 salario = float(input('Digite o Salário: '))
 aumento = salario * 0.15
 

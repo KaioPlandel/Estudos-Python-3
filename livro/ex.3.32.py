@@ -1,3 +1,5 @@
+# crie uma função que Mostre quanto um funcionário vai receber de aumento por hr trabalhada se trabalhar mais de 40 horas
+
 def pagar(Shora,horas):
     if horas <= 40:
         total = Shora * horas

@@ -1,4 +1,4 @@
-
+#converte numero para Octal Binário e Hexadecimal
 n = int(input('Escreva um Numero Qualquer: '))
 print(f'O Numero digitado foi {n}')
 

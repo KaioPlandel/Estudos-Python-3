@@ -1,3 +1,4 @@
+#maior e menor
 n1 = int(input('Digite um valor: '))
 n2 = int(input('Digite Outro: '))
 

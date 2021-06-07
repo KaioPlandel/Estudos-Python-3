@@ -1,3 +1,4 @@
+#verifica se forma um triangulo
 a = float(input('Digite a primeira Reta: '))
 b = float(input('A Segunda: '))
 c = float(input('A Terceira: '))

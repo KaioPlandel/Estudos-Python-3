@@ -1,3 +1,4 @@
+#mostre quantas milhar centena dezena e unidade tem o numero digitado
 num = input('Digite um numero ate 9999: ')
 
 if len(num) == 4:

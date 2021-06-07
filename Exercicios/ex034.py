@@ -1,3 +1,4 @@
+#salário com 10% de aumento
 salario = float(input('Digite O Salário: '))
 
 if salario > 1250:
